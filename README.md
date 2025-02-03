@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esanchezv9906
 - 👀 Econ consulting analyst
-- 🌱 Data-science student and tester 
+- 🌱 Data-science student 
 - 📫 How to reach me: e.sanchezv9906@gmail.com
 
 <!---
